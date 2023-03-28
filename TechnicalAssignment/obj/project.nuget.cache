@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkQCM1GM8bIJ3a5I+76HUtAFZYkVovQdrzu0Jzq7kfB9XpdqyhaidHpfx67wmM4nT2RyXoaafHrhyC4amJeSYQ==",
+  "success": true,
+  "projectFilePath": "E:\\TAssignment\\TechnicalAssignment\\TechnicalAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\islamm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

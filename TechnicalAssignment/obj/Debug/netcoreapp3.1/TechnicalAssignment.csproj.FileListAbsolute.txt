@@ -1,0 +1,32 @@
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.exe
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.deps.json
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.runtimeconfig.json
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.runtimeconfig.dev.json
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.dll
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.pdb
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.csproj.AssemblyReference.cache
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.AssemblyInfoInputs.cache
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.AssemblyInfo.cs
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.csproj.CoreCompileInputs.cache
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.dll
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.pdb
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.genruntimeconfig.cache
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.csproj.CopyComplete
+E:\TCS Users\Rakibul\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\india.json
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.exe
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\india.json
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.deps.json
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.runtimeconfig.json
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.runtimeconfig.dev.json
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.dll
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\TechnicalAssignment.pdb
+E:\TAssignment\TechnicalAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.csproj.AssemblyReference.cache
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.AssemblyInfoInputs.cache
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.AssemblyInfo.cs
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.csproj.CoreCompileInputs.cache
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.csproj.CopyComplete
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.dll
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.pdb
+E:\TAssignment\TechnicalAssignment\obj\Debug\netcoreapp3.1\TechnicalAssignment.genruntimeconfig.cache
